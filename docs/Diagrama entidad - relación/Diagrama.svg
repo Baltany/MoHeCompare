@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="78cm" height="33cm" viewBox="102 -142 1557 647" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="323" y="234" width="81.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="323" y="234" width="81.9" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="363.95" y="256">Usuario</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="738" y="231" width="120.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="738" y="231" width="120.4" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="798.2" y="253">Lista_compra</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="172.7" cy="149" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="172.7" cy="149" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="172.7" y="153">Id</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="165" y1="157" x2="180.4" y2="157"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="173.1" cy="292" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="173.1" cy="292" rx="43.1" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="173.1" y="296">Nombre</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="161.65" cy="339" rx="54.65" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="161.65" cy="339" rx="54.65" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="161.65" y="343">Apellido1</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="157.65" cy="385" rx="54.65" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="157.65" cy="385" rx="54.65" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="157.65" y="389">Apellido2</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="173.25" cy="194" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="173.25" cy="194" rx="39.25" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="173.25" y="198">Email</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="798.95" cy="349" rx="46.95" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="798.95" cy="349" rx="46.95" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="798.95" y="353">Id_user</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="772" y1="357" x2="825.9" y2="357"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="677.7" cy="312" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="677.7" cy="312" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="677.7" y="316">Id</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="670" y1="320" x2="685.4" y2="320"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="762.15" cy="406" rx="170.15" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="762.15" cy="406" rx="170.15" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="762.15" y="410">Lista_productos &lt;Producto_supermercado&gt;</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 201.403 149 C 256.947,149 267.456,252 323,252"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 217.199 292 C 268.957,292 271.241,252 323,252"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 217.29 339 C 267.206,339 273.084,252 323,252"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 213.304 385 C 265.544,385 270.76,252 323,252"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 212.5 194 C 251.145,194 284.355,252 323,252"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="173.8" cy="242" rx="50.8" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="173.8" cy="242" rx="50.8" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="173.8" y="246">Password</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="533,251.55 572.25,228 611.5,251.55 572.25,275.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="533,251.55 572.25,228 611.5,251.55 572.25,275.1 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="527" y="245.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="617.5" y="245.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="572.25" y="255.55">tiene</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="612.464" y1="251.096" x2="727.274" y2="249.8"/>
+    <polygon style="fill: #000000" points="734.774,249.716 724.831,254.828 727.274,249.8 724.718,244.829 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="734.774,249.716 724.831,254.828 727.274,249.8 724.718,244.829 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="533" y1="251.55" x2="404.9" y2="252"/>
+  <g>
+    <rect style="fill: #ffffff" x="1096" y="230" width="89.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1096" y="230" width="89.6" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1140.8" y="252">Producto</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1263.7" cy="233" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1263.7" cy="233" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1263.7" y="237">Id</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1256" y1="241" x2="1271.4" y2="241"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1268.1" cy="295" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1268.1" cy="295" rx="43.1" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1268.1" y="299">Nombre</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1236 233 C 1215.95,233 1205.65,248 1185.6,248"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1224 295 C 1191.63,295 1217.97,248 1185.6,248"/>
+  <g>
+    <polygon style="fill: #ffffff" points="943,246.55 982.25,223 1021.5,246.55 982.25,270.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="943,246.55 982.25,223 1021.5,246.55 982.25,270.1 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="937" y="240.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1027.5" y="240.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="982.25" y="250.55">tiene</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1021.5" y1="246.55" x2="1085.26" y2="247.325"/>
+    <polygon style="fill: #000000" points="1092.76,247.416 1082.7,252.294 1085.26,247.325 1082.83,242.295 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1092.76,247.416 1082.7,252.294 1085.26,247.325 1082.83,242.295 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="943" y1="246.55" x2="859.402" y2="247.964"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 706.371 312 C 754.677,312 749.894,267 798.2,267"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 846.879 349 C 885.806,349 759.273,267 798.2,267"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 746.634 387.293 C 704.334,336.293 787.344,267 798.2,267"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="411" y="244">
+    <tspan x="411" y="244"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="708" y="236">
+    <tspan x="708" y="236"></tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="913.25" cy="334" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="913.25" cy="334" rx="39.25" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="913.25" y="338">Fecha</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 873.002 334 C 847.836,334 823.366,267 798.2,267"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="700" y="241">
+    <tspan x="700" y="241">0,n</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="413" y="245">
+    <tspan x="413" y="245">1,1</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="336" y="-58" width="51.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="336" y="-58" width="51.1" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="361.55" y="-36">Rol</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="506.7" cy="-84" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="506.7" cy="-84" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="506.7" y="-80">Id</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="499" y1="-76" x2="514.4" y2="-76"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="500.55" cy="-29" rx="31.55" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="500.55" cy="-29" rx="31.55" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="500.55" y="-25">rol</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="160.25" cy="432" rx="39.25" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="160.25" cy="432" rx="39.25" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="160.25" y="436">IdRol</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 199.5 432 C 244.901,432 277.599,252 323,252"/>
+  <g>
+    <polygon style="fill: #ffffff" points="312,100.48 362.8,70 413.6,100.48 362.8,130.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="312,100.48 362.8,70 413.6,100.48 362.8,130.96 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="306" y="94.48"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="419.6" y="94.48"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="362.8" y="104.48">Relación</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 388.082 -40 C 432.287,-40 433.787,-84 477.993,-84"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 388.034 -40 C 430.198,-40 425.834,-29 467.998,-29"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="362.8" y1="70" x2="361.55" y2="-22"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="362.8" y1="130.96" x2="363.841" y2="224.265"/>
+    <polygon style="fill: #000000" points="363.925,231.764 358.814,221.82 363.841,224.265 368.813,221.709 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="363.925,231.764 358.814,221.82 363.841,224.265 368.813,221.709 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="222">
+    <tspan x="560" y="222">1,n</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="978" y="207">
+    <tspan x="978" y="207"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="336" y="-5">
+    <tspan x="336" y="-5">1,1</tspan>
+  </text>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 225.586 242 C 275.12,242 273.466,252 323,252"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="330" y="225">
+    <tspan x="330" y="225">1,n</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="425" y="102">
+    <tspan x="425" y="102">1,n</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1060" y="238">
+    <tspan x="1060" y="238">1,n</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="195.05" cy="485" rx="70.05" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="195.05" cy="485" rx="70.05" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="195.05" y="489">Codigo_Postal</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 266.099 485 C 329.942,485 258.153,252 321.997,252"/>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="972" y="205">
+    <tspan x="972" y="205"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="864" y="239">
+    <tspan x="864" y="239">0,1</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="973" y="215">
+    <tspan x="973" y="215">0,n</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1087" y="-99" width="120.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1087" y="-99" width="120.4" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1147.2" y="-77">Supermercado</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1320.7" cy="-123" rx="27.7" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1320.7" cy="-123" rx="27.7" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1320.7" y="-119">Id</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1313" y1="-115" x2="1328.4" y2="-115"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1319.1" cy="-76" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1319.1" cy="-76" rx="43.1" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1319.1" y="-72">Nombre</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1335.65" cy="-25" rx="54.65" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1335.65" cy="-25" rx="54.65" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1335.65" y="-21">Dirección</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1293 -123 C 1264.58,-123 1235.82,-81 1207.4,-81"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1276 -76 C 1249.57,-76 1233.83,-81 1207.4,-81"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1281 -25 C 1236.25,-25 1253.15,-81 1208.4,-81"/>
+  <g>
+    <rect style="fill: #ffffff" x="1256" y="48" width="189.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1256" y="48" width="189.7" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1350.85" y="70">Producto_supermercado</text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1572.35" cy="12" rx="62.35" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1572.35" cy="12" rx="62.35" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1572.35" y="16">Id_producto</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1530" y1="20" x2="1614.7" y2="20"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1579.75" cy="66" rx="77.75" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1579.75" cy="66" rx="77.75" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1579.75" y="70">Id_supermercado</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1522" y1="74" x2="1637.5" y2="74"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1562.1" cy="125" rx="43.1" ry="18"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1562.1" cy="125" rx="43.1" ry="18"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1562.1" y="129">Precio</text>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1510 12 C 1491.97,12 1463.73,66 1445.7,66"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1501 66 C 1449.52,66 1497.18,66 1445.7,66"/>
+  <g>
+    <polygon style="fill: #ffffff" points="1103,125.55 1142.25,102 1181.5,125.55 1142.25,149.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1103,125.55 1142.25,102 1181.5,125.55 1142.25,149.1 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1097" y="119.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1187.5" y="119.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1142.25" y="129.55">tiene</text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="1108,27.55 1147.25,4 1186.5,27.55 1147.25,51.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1108,27.55 1147.25,4 1186.5,27.55 1147.25,51.1 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1102" y="21.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1192.5" y="21.55"></text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1147.25" y="31.55">tiene</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1142.25" y1="102" x2="1245.4" y2="84.1979"/>
+    <polygon style="fill: #000000" points="1252.79,82.9224 1243.79,89.5502 1245.4,84.1979 1242.09,79.6959 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1252.79,82.9224 1243.79,89.5502 1245.4,84.1979 1242.09,79.6959 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1186.5" y1="27.55" x2="1260.12" y2="44.773"/>
+    <polygon style="fill: #000000" points="1267.42,46.4815 1256.54,49.0721 1260.12,44.773 1258.82,39.335 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1267.42,46.4815 1256.54,49.0721 1260.12,44.773 1258.82,39.335 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1142.25" y1="149.1" x2="1141.08" y2="229.01"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1147.2" y1="-63" x2="1147.24" y2="-5.73607"/>
+    <polygon style="fill: #000000" points="1147.25,1.76393 1142.24,-8.23233 1147.24,-5.73607 1152.24,-8.2398 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1147.25,1.76393 1142.24,-8.23233 1147.24,-5.73607 1152.24,-8.2398 "/>
+  </g>
+  <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1518 125 C 1481.01,125 1482.68,66 1445.7,66"/>
+</svg>

@@ -26,6 +26,8 @@ public class Usuario {
     
     @OneToMany
     private List<ListaCompra> listaCompra;
+
+    /* Implementar logica de rol */
     
 
 

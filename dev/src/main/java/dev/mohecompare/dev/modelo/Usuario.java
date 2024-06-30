@@ -3,6 +3,7 @@ package dev.mohecompare.dev.modelo;
 import java.util.List;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -29,7 +30,7 @@ public class Usuario {
     private List<ListaCompra> listaCompra;
 
 
-    @Enumerated
+    @Enumerated(EnumType.STRING)
     private Rol rol;
     
 

@@ -3,6 +3,7 @@ package dev.mohecompare.dev.modelo;
 import java.util.List;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.Enumerated;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
@@ -27,7 +28,9 @@ public class Usuario {
     @OneToMany
     private List<ListaCompra> listaCompra;
 
-    /* Implementar logica de rol */
+
+    @Enumerated
+    private Rol rol;
     
 
 

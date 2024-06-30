@@ -28,6 +28,5 @@ public class ProductoSuperMercado {
     private Float precio;
     
 
-
     
 }
